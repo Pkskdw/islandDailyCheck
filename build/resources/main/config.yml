@@ -1,0 +1,5 @@
+setting:
+  reward_check_item: BOOK
+  no_reward_check_message: "&c님 보상 안받음요"
+  reward_check_lore_max: 5
+  reward_check_sound: ENTITY_PLAYER_LEVELUP

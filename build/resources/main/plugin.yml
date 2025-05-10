@@ -1,0 +1,18 @@
+name: islandDailyCheckIn
+version: '1.0-SNAPSHOT'
+main: org.sloart.islandDailyCheckIn.main.islandDailyCheckInMain
+api-version: '1.21'
+commands:
+  dailyreward:
+    description: asds
+    usage: /<command> <날짜>
+    aliases:
+      - 출석체크
+      - 출석
+      - dr
+  dailysetreward:
+    description: asdasd
+    usage: /<command> <날짜>
+    aliases:
+      - 출석체크설정
+      - dsr
